@@ -1,8 +1,9 @@
-![Python](https://img.shields.io/badge/Python-3.10+-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-success)
-![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-red)
-![ML](https://img.shields.io/badge/ML-Z--Score-orange)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 # 🖥️ System Anomaly Monitoring Dashboard
 
@@ -50,6 +51,7 @@ Streamlit Dashboard
 ### 1️⃣ Install dependencies
 ```bash
 pip install -r requirements.txt
+
 
 
 
