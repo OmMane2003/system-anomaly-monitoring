@@ -1,6 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
+![ML](https://img.shields.io/badge/ML-Z--Score-orange)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 
@@ -53,6 +54,7 @@ Streamlit Dashboard
 ### 1️⃣ Install dependencies
 ```bash
 pip install -r requirements.txt
+
 
 
 
