@@ -24,7 +24,7 @@ A real-time system monitoring application that tracks CPU, Memory, and Disk usag
 
 ## 📸 Dashboard Preview
 
-![System Anomaly Monitoring Dashboard](screenshots/dashboard.png)
+![System Anomaly Monitoring Dashboard](screenshots/dashboard.png.jpeg)
 
 
 ## 🧱 System Architecture
@@ -50,5 +50,6 @@ Streamlit Dashboard
 ### 1️⃣ Install dependencies
 ```bash
 pip install -r requirements.txt
+
 
 
