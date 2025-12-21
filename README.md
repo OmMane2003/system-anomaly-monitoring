@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-success)
+![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-red)
+![ML](https://img.shields.io/badge/ML-Z--Score-orange)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+
 # 🖥️ System Anomaly Monitoring Dashboard
 
 A real-time system monitoring application that tracks CPU, Memory, and Disk usage and detects anomalies using statistical machine learning techniques (Z-score). The system also sends automated email alerts for critical anomalies and provides a professional dashboard for visualization.
@@ -39,3 +45,4 @@ Streamlit Dashboard
 ### 1️⃣ Install dependencies
 ```bash
 pip install -r requirements.txt
+
