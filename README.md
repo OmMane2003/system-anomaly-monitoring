@@ -4,6 +4,11 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+![GitHub stars](https://img.shields.io/github/stars/OmMane2003/system-anomaly-monitoring?style=social)
+![GitHub forks](https://img.shields.io/github/forks/OmMane2003/system-anomaly-monitoring?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/OmMane2003/system-anomaly-monitoring)
+
+
 
 # 🖥️ System Anomaly Monitoring Dashboard
 
@@ -51,6 +56,7 @@ Streamlit Dashboard
 ### 1️⃣ Install dependencies
 ```bash
 pip install -r requirements.txt
+
 
 
 
