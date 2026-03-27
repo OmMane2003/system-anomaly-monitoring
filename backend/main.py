@@ -10,9 +10,9 @@ from email.message import EmailMessage
 from typing import List
 
 # ================== CONFIG ==================
-EMAIL_SENDER = "masculinedivine1@gmail.com"       # <-- change
-EMAIL_PASSWORD = "jcjhymwnrfkrhlva"  # <-- change
-EMAIL_RECEIVER = "masculinedivine1@gmail.com"     # <-- change
+EMAIL_SENDER = "@gmail.com"       # <-- change
+EMAIL_PASSWORD = "xyz"  # <-- change
+EMAIL_RECEIVER = "@gmail.com"     # <-- change
 
 COLLECT_INTERVAL = 10  # seconds
 
